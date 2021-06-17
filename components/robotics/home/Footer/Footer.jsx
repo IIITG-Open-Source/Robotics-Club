@@ -15,7 +15,7 @@ function Footer(props){
                 <Col className={Styles.col}>
                     
                         <Link href="/events">
-                            Events
+                            <h3 className={Styles.item}>Events</h3>
                         </Link>
                          
                         <h3 className={Styles.item}>Gallery</h3>

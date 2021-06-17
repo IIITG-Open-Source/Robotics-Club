@@ -20,6 +20,11 @@
 
 .item{
     line-height: 50px;
+
+}
+.item:hover{
+    cursor:pointer;
+    opacity: 50%;
 }
 
 .followUs{
