@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=DotGothic16&family=Righteous&display=swap");
+.clubHeading {
+  margin-top: 220px;
+  font-family: "Righteous", cursive;
+  font-size: 80px;
+  font-weight: 900;
+  letter-spacing: 5px;
+  text-align: center;
+}
+
+.headingtextalign {
+  text-align: center;
+}
+
+.roboheading {
+  height: 50px;
+  width: 30px;
+}
+
+.headerImage {
+  margin-top: 90px;
+  margin-bottom: 40px;
+  height: 500px;
+  width: 500px;
+}
+
+@media only screen and (max-width: 600px) {
+  .headerImage {
+    height: 250px;
+    width: 250px;
+    text-align: center;
+    margin-top: 40px;
+  }
+  .clubHeading {
+    margin-top: 100px;
+    font-family: "Righteous", cursive;
+    font-size: 40px;
+    font-weight: 900;
+    letter-spacing: 5px;
+    text-align: center;
+  }
+  .roboheading {
+    height: 25px;
+    width: 15px;
+  }
+}
