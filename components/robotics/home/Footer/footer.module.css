@@ -1,0 +1,55 @@
+.heading{
+    background-color: #e8417c;
+    width: 100%;
+}
+
+.logo{
+    width:200px;
+}
+
+.col{
+    text-align: center;
+    padding-top: 80px;
+    color: white;
+    padding-bottom: 50px;
+}
+
+.logoImg{
+    padding-top: 140px;
+}
+
+.item{
+    line-height: 50px;
+
+}
+.item:hover{
+    cursor:pointer;
+    opacity: 50%;
+}
+
+.followUs{
+    padding-top: 160px;
+}
+
+.icon{
+    font-size: 40px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.copyright{
+    text-align: center;
+    color: white;
+    opacity: 50%;
+    padding-bottom: 40px;
+}
+
+.button{
+    background-color: #e8417c;
+    border: none;
+}
+
+.button:hover{
+    background-color: #e8417c;
+    border: none;
+}

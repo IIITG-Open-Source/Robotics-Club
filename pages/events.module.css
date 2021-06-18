@@ -1,0 +1,27 @@
+.heading{
+    text-align: center;
+    font-size: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.body{
+    background-color: #5cdb95;
+}
+
+.container{
+    background-color: white;
+    width: 80%;
+    margin:auto;
+    box-shadow: 5px 10px #00e600;
+}
+
+.img{
+    height:400px;
+    width:610px;
+}
+
+.footer{
+    padding-top: 100px;
+}
+
