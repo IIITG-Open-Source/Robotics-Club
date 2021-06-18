@@ -21,24 +21,29 @@
   color: black;
 }
 
-.imgWrapper{
+/* .imgWrapper{
   position: relative;
   overflow: hidden;
   border-radius: 50%;
   height:250px;
   width:250px;
-}
+} */
 
-.coordinatorImg{
+/* .coordinatorImg{
   z-index: 0;
   position: absolute;
   top: 0;
   left: 0;
   height: 100%;
   width: 100%;
+} */
+.coordinatorImg{
+  border-radius: 50%;
+  height:250px;
+  width:250px;
 }
 
-.imgHover{
+/* .imgHover{
   background-color: aquamarine;
   visibility: hidden;
   position: absolute;
@@ -51,5 +56,5 @@
 
 .imgHover:hover{
   visibility: visible;
-}
+} */
 
