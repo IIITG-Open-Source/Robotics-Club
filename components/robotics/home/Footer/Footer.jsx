@@ -19,9 +19,13 @@ function Footer(props){
                         </Link>
                          
                         <h3 className={Styles.item}>Gallery</h3>
-                        <h3 className={Styles.item}>Contact Us</h3>
+                        <Link href="#contact">
+                            <h3 className={Styles.item}>Contact Us</h3>
+                        </Link>
+                        <Link href="#coordinators">
+                            <h3 className={Styles.item}>Coordinators</h3>
+                        </Link>
                         <h3 className={Styles.item}>Past Coordinators</h3>
-                        <h3 className={Styles.item}>Coordinators</h3>
                     
                 </Col>
                 <Col className={`${Styles.col} ${Styles.followUs}`}>

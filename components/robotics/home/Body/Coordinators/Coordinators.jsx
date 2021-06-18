@@ -12,18 +12,17 @@ function Coordinators() {
         <Container className={Styles.innerCont}>
           <Row>
             <Col xl="4" className={Styles.col}>
-            <div className={Styles.imgWrapper}>
-              <div className={Styles.imgHover}/>
-              <img src="/images/robotics/body/cardimage.jpg" alt=" " className={Styles.coordinatorImg}/>
-            </div>
               
-              <h2 >Coordinator 1</h2>
-            </Col>
-            <Col xl="4" className={Styles.col}>
               <img src="/images/robotics/body/cardimage.jpg" alt=" " className={Styles.coordinatorImg}/>
               <h2 >Coordinator 1</h2>
             </Col>
             <Col xl="4" className={Styles.col}>
+              
+              <img src="/images/robotics/body/cardimage.jpg" alt=" " className={Styles.coordinatorImg}/>
+              <h2 >Coordinator 1</h2>
+            </Col>
+            <Col xl="4" className={Styles.col}>
+              
               <img src="/images/robotics/body/cardimage.jpg" alt=" " className={Styles.coordinatorImg}/>
               <h2 >Coordinator 1</h2>
             </Col>
