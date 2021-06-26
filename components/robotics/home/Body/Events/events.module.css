@@ -10,14 +10,24 @@
 }
 
 .button{
+  /* color: #e8417c; */
+  color: #f5f0f2;
   margin-top: 50px;
-  width: 120px;
-  height: 60px;
-  border: none;
+  font-weight: bold;
+  padding-top: 5px;
+  font-size: 20px;
+  width: 150px;
+  height: 50px;
+  border: 1.5px solid rgb(252, 248, 248);
+  border-radius: 6px;
+  background-color: rgb(149, 20, 223);
+  
 }
 
 .button:hover{
-  background-color: #05386b;
+  color: brown;
+  background-color: #8bb7e2;
+  border-color: #065c8d;
 }
 
 .outercont{

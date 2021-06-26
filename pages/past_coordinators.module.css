@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap");
+
+.body{
+  background-color: #5cdb95;
+}
+.sec{
+  
+  height: 50vh;
+  
+}
+.heading{
+  
+  display: block;
+  width: 100%;
+  background-color: rgba(241, 205, 199, 0.479); 
+  margin: 0px auto;
+  text-align: center;
+  font-size: 40px;
+  color: rgb(8, 8, 8);
+  padding-top: 15px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+
+  
+}
+.heading2{
+
+  display: block;
+   
+  margin: 0px auto 10px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(155, 61, 97);
+
+}
+.img{
+  width: 360px;
+  height: 360px;
+  margin: 40px auto 20px;
+  padding-top: 20px;
+  
+  border-radius: 200px;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  background-color:rgba(241, 205, 199, 0.479) ;
+}
+.para{
+  width: 60%;
+  text-align: center;
+  margin: auto auto;
+  font-size: 20px;
+  padding-bottom: 20px;
+}

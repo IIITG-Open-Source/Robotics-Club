@@ -25,7 +25,10 @@ function Footer(props){
                         <Link href="#coordinators">
                             <h3 className={Styles.item}>Coordinators</h3>
                         </Link>
+                        <Link href="/past_coordinator">
                         <h3 className={Styles.item}>Past Coordinators</h3>
+                        </Link>
+                        
                     
                 </Col>
                 <Col className={`${Styles.col} ${Styles.followUs}`}>
