@@ -25,7 +25,7 @@ function Navbar_robotics() {
           <Nav.Link href="#coordinators" className={Styles.navlink}>
             Coordinators
           </Nav.Link>
-          <Nav.Link href="#link" className={Styles.navlink}>
+          <Nav.Link href="#gallery" className={Styles.navlink}>
             Gallery
           </Nav.Link>
           <Nav.Link href="#contact" className={Styles.navlink}>

@@ -4,6 +4,7 @@ import Styles from "./body.module.css";
 import Events from "./Events/Events";
 import Contact from "./Contact_Us/Contact";
 import Coordinators from "./Coordinators/Coordinators";
+import Gallery from "./Gallery/Gallery";
 
 function body() {
   return (
@@ -16,6 +17,9 @@ function body() {
       </div>
       <div className={Styles.coordinators}>
         <Coordinators />
+      </div>
+      <div className={Styles.gallery}>
+        <Gallery />
       </div>
       <div className={Styles.contactus}>
         <Contact />
