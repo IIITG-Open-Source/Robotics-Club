@@ -18,7 +18,10 @@ function Footer(props){
                             <h3 className={Styles.item}>Events</h3>
                         </Link>
                          
+                        <Link href="/gallery">
                         <h3 className={Styles.item}>Gallery</h3>
+                        </Link>
+                        
                         <Link href="#contact">
                             <h3 className={Styles.item}>Contact Us</h3>
                         </Link>
